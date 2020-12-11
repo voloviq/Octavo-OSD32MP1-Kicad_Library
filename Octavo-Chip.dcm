@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OSD32MP157C-512M-BAA
+D System-On-Modules - SOM System-in-Package: ST Micro STM32MP157C Dual ARM Cortex A7 + M4 Processor, 512MB DDR3L, STPMIC1A, 4KB EEPROM, 24MHz Oscillator, Passives - 18mm x 18mm 302 Ball BGA - 0 C to 85 C
+K SiP Module
+F https://octavosystems.com/docs/osd32mp15x-datasheet/
+$ENDCMP
+#
+#End Doc Library
